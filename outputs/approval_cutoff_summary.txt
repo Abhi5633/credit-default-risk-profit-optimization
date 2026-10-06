@@ -1,0 +1,15 @@
+Credit Risk Approval Policy
+===========================
+
+Cutoff selected using VALIDATION data.
+Final policy evaluated using untouched TEST data.
+
+Optimal PD cutoff: 50.00%
+
+FINAL TEST RESULTS
+------------------
+Approval rate: 57.43%
+Predicted bad rate: 32.60%
+Actual bad rate: 11.47%
+Expected portfolio profit: 390,474,469.89
+Expected profit per approved loan: 2,526.75

@@ -1,0 +1,20 @@
+# Do NOT upload the large Lending Club datasets
+data/*.csv
+data/*.csv.gz
+data/*.zip
+
+# Do NOT upload Python virtual environment
+.venv/
+venv/
+
+# Do NOT upload Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# VS Code / operating system files
+.vscode/
+.DS_Store
+Thumbs.db
+# Local development files
+bifrost.json

@@ -1,0 +1,2 @@
+cutoff,approved_loans,approval_rate,predicted_bad_rate,actual_bad_rate,expected_profit,profit_per_approved_loan
+0.5,154536,0.5743338164789832,0.32595133141664434,0.11473054822177357,390474469.8906546,2526.7540889543834
